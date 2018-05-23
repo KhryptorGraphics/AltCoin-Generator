@@ -63,8 +63,9 @@ Then you can clean up the mess with:
 bash altcoin_generator.sh clean_up
 ```
 
-## Can I help the project?
-Sure. You can either submit patches, or make a donation if you found this project useful:
+# LICENSE!
 
-LTC: Lcaey9FP2zdu4C9TSVffDG1DuKh78yCDYT
-BTC: 1BB44xSWSHwgM2AMP7MScqk2CALuo6A6UY
+Geofence is [MIT-licensed](https://github.com/mindinventory1/Geofence/blob/master/LICENSE).
+     
+## Let us know!
+We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
