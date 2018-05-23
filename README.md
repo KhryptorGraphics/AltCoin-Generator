@@ -1,0 +1,2 @@
+# AltCoin-Generator
+AltCoin Generator
